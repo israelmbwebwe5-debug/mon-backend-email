@@ -1,0 +1,8 @@
+{
+  "name": "mon-backend-email",
+  "version": "1.0.0",
+  "description": "Backend d'envoi de mails",
+  "dependencies": {
+    "nodemailer": "^6.9.7"
+  }
+}
